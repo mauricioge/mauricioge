@@ -3,7 +3,7 @@
 ## ACERCA DE MI: 🚀
 - 🔭 Estoy preparando el curso: "IoT, comunicación de microcontroladores con otras tecnologías".
 - 🌱 Estoy aprendiendo a crear vídeos y a trabajar con madera.
-- 🤝 busco colaboraciones en proyectos Arduino, ESP8266, ESP32 y Raspberry Pi.
-- 🤔 busco ayuda con electrónica.
-- 💬 pregúntame acerca de desarrollo web y microcontroladores.
-- 📫 puedes escribirme a mauricioge@gmail.com
+- 🤝 Busco colaboraciones en proyectos Arduino, ESP8266, ESP32 y Raspberry Pi.
+- 🤔 Busco ayuda con electrónica.
+- 💬 Pregúntame acerca de desarrollo web y microcontroladores.
+- 📫 Puedes escribirme a mauricioge@gmail.com
