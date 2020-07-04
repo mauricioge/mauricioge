@@ -1,7 +1,7 @@
 # MAURICIOGE
 
 ## ACERCA DE MI: 🚀
-- 🔭 Estoy trabajando en el curso: "IoT, comunicación de microcontroladores con otras tecnologías".
+- 🔭 Estoy preparando el curso: "IoT, comunicación de microcontroladores con otras tecnologías".
 - 🌱 Estoy aprendiendo a crear vídeos y a trabajar con madera.
 - 🤝 busco colaboraciones en proyectos Arduino, ESP8266, ESP32 y Raspberry Pi.
 - 🤔 busco ayuda con electrónica.
