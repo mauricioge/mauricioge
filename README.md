@@ -6,4 +6,4 @@
 - 🤝 Busco colaboraciones en proyectos Arduino, ESP8266, ESP32 y Raspberry Pi.
 - 🤔 Busco ayuda con electrónica.
 - 💬 Pregúntame acerca de desarrollo web y/o microcontroladores.
-- 📫 Puedes escribirme a mauricioge@gmail.com
+- 📫 Puedes escribirme, mi email está en mi perfil.
