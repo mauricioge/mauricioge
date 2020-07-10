@@ -1,4 +1,4 @@
-# MAURICIOGE
+# Hey! ¿cómo te va? 👋
 
 ## ACERCA DE MI: 🚀
 - 🔭 Estoy preparando el curso: "IoT, comunicación de microcontroladores con otras tecnologías".
