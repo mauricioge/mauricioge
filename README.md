@@ -5,7 +5,7 @@
 - :seedling: Estoy aprendiendo a crear vídeos y a trabajar con madera.
 - :sparkles: Busco colaboraciones en proyectos Arduino, ESP8266, ESP32 y Raspberry Pi.
 - :sleepy: Busco ayuda con electrónica.
-- :speech_balloon: Pregúntame acerca de desarrollo web y/o microcontroladores.
+- :speech_balloon: Pregúntame acerca de desarrollo web, bases de datos relacionales y/o microcontroladores.
 - :mailbox: Puedes escribirme, mi email está en mi perfil.
 <p align="center">
 	<a href="https://github.com/mauricioge"><img src="https://img.shields.io/github/followers/mauricioge.svg?label=GitHub&style=social" alt="GitHub"></a>
