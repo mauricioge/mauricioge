@@ -1,19 +1,19 @@
 # Hey! ¿cómo te va? :wave:
 
-## BREVEMENTE: :rocket:
+## BREVEMENTE: 🚀
+- :speech_balloon: Pregúntame acerca de Desarrollo Web, Bases de Datos Relacionales, Tecnologías Cloud y/o Microcontroladores.
 - 2024: Estoy preparando temarios para cursos de Programación (Java, C#, Python, APEX), Bases de Datos (Oracle DB) y Cloud (Microsoft Azure y probablemente Google Cloud).
-- 🤝 NOV/2023: Vuelvo a ser parte del Programa Microsoft Learn for Educators
+- ❤️✨🤝 NOV/2023: Vuelvo a ser parte del Programa Microsoft Learn for Educators
 - ✔️ AGO/2023: Java Fundamentals
 - ✔️ JUN/2023: Database Foundations
-- ✔️ MAY/2023: Evaluación de habilidades del capacitador (ruta para que Google me certifique como capacitador)
+- ✔️ MAY/2023: Evaluación de habilidades del capacitador (requisito para que Google me certifique como capacitador)
 - ✔️ ABR/2023: Educador certificado por Google Nivel 2
 - ✔️ MAR/2023: Educador certificado por Google Nivel 1
-- :sparkles:🤝 MAR/2023: Oracle Academy me invita a validar conocimientos para impartir su currículo oficial.
+- ❤️✨🤝 MAR/2023: Oracle Academy me invita a validar conocimientos para impartir su currículo oficial.
 - :telescope: Estoy preparando el curso: "IoT, comunicación de microcontroladores con otras tecnologías".
 - :seedling: Estoy aprendiendo a trabajar la madera.
 - :sparkles: Busco colaboraciones en proyectos Arduino, ESP8266, ESP32 y Raspberry Pi.
 - :sleepy: Busco ayuda con electrónica.
-- :speech_balloon: Pregúntame acerca de desarrollo web, bases de datos relacionales y/o microcontroladores.
 - :mailbox: Puedes escribirme, mi email está en mi perfil.
 <p align="center">
 	<a href="https://github.com/mauricioge"><img src="https://img.shields.io/github/followers/mauricioge.svg?label=GitHub&style=social" alt="GitHub"></a>
