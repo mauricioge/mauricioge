@@ -1,6 +1,8 @@
 # Hey! ¿cómo te va? :wave:
 
 ## BREVEMENTE: 🚀
+- Agregando Azure Database Administrator y Azure Database SQL
+- Este año ya marcó tendencia: la nube para mí. Estoy preparando temarios para cursos de Cloud (Azure, AWS y Google Cloud).
 - :speech_balloon: Pregúntame acerca de Desarrollo Web, Bases de Datos Relacionales, Tecnologías Cloud y/o Microcontroladores.
 - 2024: Estoy preparando temarios para cursos de Programación (Java, C#, Python, APEX), Bases de Datos (Oracle DB) y Cloud (Microsoft Azure y probablemente Google Cloud).
 - ❤️✨🤝 NOV/2023: Vuelvo a ser parte del Programa Microsoft Learn for Educators
