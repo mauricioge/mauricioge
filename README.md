@@ -19,7 +19,7 @@
 - :mailbox: Puedes escribirme, mi email está en mi perfil.
 <p align="center">
 	<a href="https://github.com/mauricioge"><img src="https://img.shields.io/github/followers/mauricioge.svg?label=GitHub&style=social" alt="GitHub"></a>
-	<a href="https://x.com/mauricioge"><img src="https://img.shields.io/x/follow/mauricioge?label=Twitter&style=social" alt="Twitter"></a>
+	<a href="https://x.com/mauricioge"><img src="https://img.shields.io/twitter/follow/mauricioge?label=Twitter&style=social" alt="Twitter"></a>
 	<a href="https://www.linkedin.com/in/mauricioge"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin"
 </p>
 
